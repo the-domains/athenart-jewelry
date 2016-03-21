@@ -1,17 +1,17 @@
 analytics: {}
 color:
   brandColors:
-    - '#f3f3f3'
-    - '#181818'
-    - '#51504e'
-    - '#958b82'
-    - '#c6ab80'
+    - '#E0D8D8'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#F0B0A8'
   brandStrength: 0.5
-  lightness: 0.5
-  rhythmicContrast: 0.616139
+  lightness: 0.659514
+  rhythmicContrast: 0.652985
   saturation: 0.689365
 cta: {}
-layout_spectrum: 0.25188
+layout_spectrum: 0.378731
 name: 'Athenart Jewelry '
 opengraph: {}
 purpose: []
