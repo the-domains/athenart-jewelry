@@ -6,7 +6,7 @@ color:
     - '#000000'
     - '#000000'
     - '#F0B0A8'
-  brandStrength: 0.5
+  brandStrength: 0.358208
   lightness: 0.659514
   rhythmicContrast: 0.652985
   saturation: 0.689365
@@ -15,4 +15,4 @@ layout_spectrum: 0.805037
 name: 'Athenart Jewelry '
 opengraph: {}
 purpose: []
-typography_spectrum: 0.49872
+typography_spectrum: 0.414179
