@@ -1,7 +1,7 @@
 name: 'Athenart Jewelry '
 favicon: null
-layout_spectrum: 0.805037
-typography_spectrum: 0.414179
+layout_spectrum: 1
+typography_spectrum: 0.1417
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#786451'
     - '#907d63'
     - '#beb695'
-  brandStrength: 0.125
-  lightness: 0.75
+  brandStrength: 0.8125
+  lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
