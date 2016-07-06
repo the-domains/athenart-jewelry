@@ -1,18 +1,28 @@
-analytics: {}
+name: 'Athenart Jewelry '
+favicon: null
+layout_spectrum: 0.805037
+typography_spectrum: 0.414179
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#E0D8D8'
-    - '#000000'
-    - '#000000'
-    - '#000000'
-    - '#F0B0A8'
+    - '#f9f9f9'
+    - '#272324'
+    - '#a83a2f'
+    - '#e46a5e'
+    - '#44b6d3'
   brandStrength: 0.358208
   lightness: 0.659514
+  saturation: 0.4375
   rhythmicContrast: 0.652985
-  saturation: 0.689365
-cta: {}
-layout_spectrum: 0.805037
-name: 'Athenart Jewelry '
-opengraph: {}
 purpose: []
-typography_spectrum: 0.414179
